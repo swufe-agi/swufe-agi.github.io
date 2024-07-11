@@ -7,10 +7,7 @@ title = "首页"
 
 # 《自然语言处理：大模型理论与实践》
 
-自然语言处理（Natural Language Processing，NLP）是计算机科学与人
-工智能交叉领域中的一门关键技术，其目标是使计算机能够理解、解释、生成
-人类语言。2022 年底以 ChatGPT 为代表的
-大模型技术横空出世，颠覆了自然语言处理领域传统的知识体系。
+自然语言处理（Natural Language Processing，NLP）是计算机科学与人工智能交叉领域中的一门关键技术，其目标是使计算机能够理解、解释、生成人类语言。2022 年底以 ChatGPT 为代表的大模型技术横空出世，颠覆了自然语言处理领域传统的知识体系。
 {{< tip "warning" >}}
 如果您有任何意见、评论以及建议请通过 [GitHub](https://github.com/swufe-agi/NLP-book) 的 [Discussion](https://github.com/swufe-agi/NLP-book/discussions) 页面进行反馈。
 {{< /tip >}}
