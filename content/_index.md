@@ -8,6 +8,12 @@ title = "首页"
 # 《自然语言处理：大模型理论与实践》
 
 自然语言处理（Natural Language Processing，NLP）是计算机科学与人工智能交叉领域中的一门关键技术，其目标是使计算机能够理解、解释、生成人类语言。2022 年底以 ChatGPT 为代表的大模型技术横空出世，颠覆了自然语言处理领域传统的知识体系。
+
+### 图书主编
+
+- 赵宇，教授，西南财经大学
+- 任福继，教授，电子科技大学
+
 {{< tip "warning" >}}
 如果您有任何意见、评论以及建议请通过 [GitHub](https://github.com/swufe-agi/NLP-book) 的 [Discussion](https://github.com/swufe-agi/NLP-book/discussions) 页面进行反馈。
 {{< /tip >}}
@@ -15,11 +21,11 @@ title = "首页"
 {{< tip >}}
 
 ```bibtex
-@book{zhao2024nlpbook-llm,
+@book{zhao2024nlpbook,
 title = {自然语言处理：大规模理论与实践},
 publisher = {机械工业出版社},
 year = {2024},
-author = {赵宇、任福继、陈星延、陈中普、陈珍珠、施龙、张阳、李庆、谢志龙},
+author = {赵宇、任福继、陈星延、陈中普、陈珍珠、施龙、施龙、潘宁宁 、张蕊、黄士罗、余关元、张阳、李庆、谢志龙},
 address = {成都},
 isbn = {},
 url = {https://swufe-agi.github.io/},
@@ -28,7 +34,7 @@ url = {https://swufe-agi.github.io/},
 
 {{< /tip >}}
 
-{{< button "/#图书章节" "章节内容" >}}{{< button "/nlpbook-sample.pdf" "下载书籍" >}}
+{{< button "/#图书章节" "章节内容" >}}{{< button "/nlpbook-preview.pdf" "下载书籍（预览版）" >}}
 {{< /column >}}
 
 {{< column >}}
