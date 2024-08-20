@@ -34,7 +34,7 @@ url = {https://swufe-agi.github.io/},
 
 {{< /tip >}}
 
-{{< button "/#图书章节" "章节内容" >}}{{< button "/nlpbook-preview.pdf" "下载书籍（预览版）" >}}
+{{< button "/#图书章节" "章节内容" >}}{{< button "/《自然语言处理：大模型理论与实践》（预览版）.pdf" "下载书籍（预览版）" >}}
 {{< /column >}}
 
 {{< column >}}
