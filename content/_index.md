@@ -17,7 +17,7 @@ title = "首页"
 - 任福继，教授，电子科技大学
 
 {{< tip "warning" >}}
-如果您有任何意见、评论以及建议请通过 [GitHub](https://github.com/swufe-agi/NLP-book) 的 [Discussion](https://github.com/swufe-agi/NLP-book/discussions) 页面进行反馈。
+如果您有任何意见、评论以及建议请通过 [GitHub](https://github.com/swufe-agi/NLP-book) 的 [Discussion](https://github.com/swufe-agi/NLP-book/discussions) 页面进行反馈，也欢迎加入教材交流QQ群（群号：673327381）。
 {{< /tip >}}
 
 {{< tip >}}
@@ -40,7 +40,7 @@ url = {https://swufe-agi.github.io/},
 {{< /column >}}
 
 {{< column >}}
-![book](/images/book-cover.png)
+![qq](/images/qq-group.jpg)
 {{< /column >}}
 {{< /block >}}
 
@@ -48,6 +48,8 @@ url = {https://swufe-agi.github.io/},
 
 ## 图书章节
 
+{{< block "grid-2" >}}
+{{< column >}}
 - [第一章：绪论](/)
 - 第一部分：语言模型基础
   - [第二章：词向量](/)
@@ -66,3 +68,10 @@ url = {https://swufe-agi.github.io/},
 - 第三部分：大模型实践
   - [第十四章：大模型本地开发](/)
   - [第十五章：基于大模型的应用开发](/)
+{{< /column >}}
+
+{{< column >}}
+![book](/images/book-cover.png)
+{{< /column >}}
+{{< /block >}}
+
