@@ -13,14 +13,35 @@ title = "首页"
 
 ### 主编
 
-- 赵宇，教授，西南财经大学
-- 任福继，教授，电子科技大学
+{{< block "grid-2" >}}
+{{< column >}}
+<img src="/images/zhao.jpg" width="200" height="300"/>
 
-{{< tip "warning" >}}
+赵宇，教授，西南财经大学
+{{</column>}}
+
+{{< column >}}
+<img src="/images/ren.png" width="200" height="300" />
+
+任福继，教授，电子科技大学
+{{</column>}}
+
+
+{{</block>}}
+
+{{< tabs "tabsId" >}}
+{{< tab "联系及合作" >}}
+{{< tip >}}
 如果您有任何意见、评论以及建议请通过 [GitHub](https://github.com/swufe-agi/NLP-book) 的 [Discussion](https://github.com/swufe-agi/NLP-book/discussions) 页面进行反馈，也欢迎加入教材交流QQ群（群号：673327381）。
 {{< /tip >}}
 
-{{< tip >}}
+{{<tip>}}
+有关学术合作、校企合作、项目合作等事宜请联系赵宇教授（zhaoyu@swufe.edu.cn）。
+{{</tip>}}
+
+{{< /tab >}}
+{{< tab "引用本书" >}}
+{{< tip "warning" >}}
 
 ```bibtex
 @book{zhao2024nlpbook,
@@ -33,6 +54,9 @@ isbn = {},
 url = {https://swufe-agi.github.io/},
 }
 ```
+{{< /tab >}}
+{{< /tabs >}}
+
 
 {{< /tip >}}
 
