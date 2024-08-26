@@ -64,7 +64,7 @@ url = {https://swufe-agi.github.io/},
 {{< /column >}}
 
 {{< column >}}
-![qq](/images/qq-group.jpg)
+![qq](/images/qq-group-v2.jpg)
 {{< /column >}}
 {{< /block >}}
 
@@ -95,7 +95,7 @@ url = {https://swufe-agi.github.io/},
 {{< /column >}}
 
 {{< column >}}
-![book](/images/book-cover.png)
+![book](/images/book-cover-v2.png)
 {{< /column >}}
 {{< /block >}}
 
