@@ -2,8 +2,6 @@
 title = "首页"
 +++
 
-{{< block "grid-2" >}}
-{{< column >}}
 
 # 《自然语言处理：大模型理论与实践》
 
@@ -13,7 +11,7 @@ title = "首页"
 
 ### 主编
 
-{{< block "grid-2" >}}
+{{< block "grid-4" >}}
 {{< column >}}
 <img src="/images/zhao.jpg" width="200" height="300"/>
 
@@ -26,8 +24,18 @@ title = "首页"
 任福继，教授，电子科技大学
 {{</column>}}
 
+{{< column >}}
+{{</column>}}
+{{< column >}}
+{{</column>}}
+
 
 {{</block>}}
+
+---
+
+{{< block "grid-2" >}}
+{{< column >}}
 
 {{< tabs "tabsId" >}}
 {{< tab "联系及合作" >}}
@@ -42,13 +50,12 @@ title = "首页"
 {{< /tab >}}
 {{< tab "引用本书" >}}
 {{< tip "warning" >}}
-
 ```bibtex
 @book{zhao2024nlpbook,
 title = {自然语言处理：大规模理论与实践},
 publisher = {机械工业出版社},
 year = {2024},
-author = {赵宇、任福继、陈星延、陈中普、陈珍珠},
+author = {赵宇，任福继，陈星延，陈中普，陈珍珠},
 address = {成都},
 isbn = {},
 url = {https://swufe-agi.github.io/},
@@ -63,8 +70,9 @@ url = {https://swufe-agi.github.io/},
 {{< button "/#图书章节" "章节内容" >}}{{< button "/《自然语言处理：大模型理论与实践》（预览版）.pdf" "下载书籍（预览版）" >}}
 {{< /column >}}
 
-{{< column >}}
-![qq](/images/qq-group-v2.jpg)
+
+{{< column "mt-2">}}
+<img src="/images/qq-group-v2.jpg" width="360" />
 {{< /column >}}
 {{< /block >}}
 
@@ -95,7 +103,7 @@ url = {https://swufe-agi.github.io/},
 {{< /column >}}
 
 {{< column >}}
-![book](/images/book-cover-v2.png)
+![book-cover](/images/3D-book-cover.png)
 {{< /column >}}
 {{< /block >}}
 
