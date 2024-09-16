@@ -81,7 +81,7 @@ url = {https://swufe-agi.github.io/},
 {{< block "grid-2" >}}
 {{< column >}}
 
-- [第一章：绪论](/)
+- [第一章：绪论](/slides/chapter-01.pdf) <img src="/images/ppt.svg" width="20" />
 - 第一部分：语言模型基础
   - [第二章：词向量](/)
   - [第三章：统计语言模型](/)
