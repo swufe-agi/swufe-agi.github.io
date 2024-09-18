@@ -12,13 +12,13 @@ title = "首页"
 
 {{< block "grid-4" >}}
 {{< column >}}
-<img src="/images/zhao.jpg" width="200" height="300"/>
+<img src="https://green-img.f2ee.com/edu/nlp/zhao.jpg" width="200" height="300"/>
 
 赵宇，教授，西南财经大学
 {{</column>}}
 
 {{< column >}}
-<img src="/images/ren.png" width="200" height="300" />
+<img src="https://green-img.f2ee.com/edu/nlp/ren.png" width="200" height="300" />
 
 任福继，教授，电子科技大学
 {{</column>}}
@@ -70,7 +70,7 @@ url = {https://swufe-agi.github.io/},
 {{< /column >}}
 
 {{< column "mt-2">}}
-<img src="/images/qq-group-v2.jpg" width="360" />
+<img src="https://green-img.f2ee.com/edu/nlp/qq-group-v2.jpg" width="360" />
 {{< /column >}}
 {{< /block >}}
 
@@ -81,7 +81,7 @@ url = {https://swufe-agi.github.io/},
 {{< block "grid-2" >}}
 {{< column >}}
 
-- [第一章：绪论](/slides/chapter-01.pdf) <img src="/images/ppt.svg" width="20" />
+- [第一章：绪论](/slides/chapter-01.pdf) <img src="https://green-img.f2ee.com/edu/nlp/ppt.svg" width="20" />
 - 第一部分：语言模型基础
   - [第二章：词向量](/)
   - [第三章：统计语言模型](/)
@@ -102,6 +102,6 @@ url = {https://swufe-agi.github.io/},
     {{< /column >}}
 
 {{< column >}}
-![book-cover](/images/3D-book-cover.png)
+![book-cover](https://green-img.f2ee.com/edu/nlp/3D-book-cover.png)
 {{< /column >}}
 {{< /block >}}
