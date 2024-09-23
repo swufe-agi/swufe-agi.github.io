@@ -83,7 +83,7 @@ url = {https://swufe-agi.github.io/},
 
 - [第一章：绪论](https://green-img.f2ee.com/edu/nlp/slides/chapter-01.pdf) <img src="https://green-img.f2ee.com/edu/nlp/ppt.svg" width="20" />
 - 第一部分：语言模型基础
-  - [第二章：词向量](/)
+  - [第二章：词向量](https://green-img.f2ee.com/edu/nlp/slides/chapter-02.pdf) <img src="https://green-img.f2ee.com/edu/nlp/ppt.svg" width="20" />
   - [第三章：统计语言模型](/)
   - [第四章：神经语言模型](/)
   - [第五章：预训练语言模型](/)
