@@ -12,3 +12,6 @@ enforceDarkMode = true
 
 [outputs]
   home = ["HTML", "RSS","JSON"]
+
+[params]
+customJS = ["https://kit.fontawesome.com/b6020e6d56.js"]
