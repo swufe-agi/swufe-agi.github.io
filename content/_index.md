@@ -85,7 +85,7 @@ url = {https://swufe-agi.github.io/},
 - 第一部分：语言模型基础
   - [第二章：词向量](https://green-img.f2ee.com/edu/nlp/slides/chapter-02.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
   - [第三章：统计语言模型](https://green-img.f2ee.com/edu/nlp/slides/chapter-03.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
-  - [第四章：神经语言模型](/)
+  - [第四章：神经语言模型](https://green-img.f2ee.com/edu/nlp/slides/chapter-04.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
   - [第五章：预训练语言模型](/)
 - 第二部分：大模型理论
   - [第六章：大模型模型架构](/)
