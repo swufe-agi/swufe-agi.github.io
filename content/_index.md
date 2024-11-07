@@ -42,7 +42,7 @@ title = "首页"
 {{< /tip >}}
 
 {{<tip>}}
-有关学术合作、校企合作、项目合作等事宜请联系赵宇教授（zhaoyu@swufe.edu.cn）。
+有关学术合作、校企合作、项目合作等事宜请联系赵宇教授（zhaoyu@swufe.edu.cn）。本网站仅提供`PDF`格式课件，若需要`PPT`课件用于教学，也请联系赵宇教授。
 {{</tip>}}
 
 {{< /tab >}}
@@ -66,7 +66,7 @@ url = {https://swufe-agi.github.io/},
 
 {{< /tip >}}
 
-{{< button "/#图书章节" "章节内容" >}}{{< button "https://green-img.f2ee.com/edu/nlp/%E3%80%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%88%EF%BC%890916.pdf" "下载书籍（预览版）" >}}
+{{< button "/#图书章节" "章节内容" >}}{{< button "<https://green-img.f2ee.com/edu/nlp/%E3%80%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%88%EF%BC%890916.pdf>" "下载书籍（预览版）" >}}
 {{< /column >}}
 
 {{< column "mt-2">}}
@@ -88,7 +88,7 @@ url = {https://swufe-agi.github.io/},
   - [第四章：神经语言模型](https://green-img.f2ee.com/edu/nlp/slides/chapter-04.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
   - [第五章：预训练语言模型](https://green-img.f2ee.com/edu/nlp/slides/chapter-05.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
 - 第二部分：大模型理论
-  - [第六章：大模型模型架构](/)
+  - [第六章：大模型模型架构](https://green-img.f2ee.com/edu/nlp/slides/chapter-06.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
   - [第七章：多模态大模型训练](/)
   - [第八章：大模型预训练](/)
   - [第九章：大模型微调](/)
