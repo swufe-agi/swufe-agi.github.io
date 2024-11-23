@@ -12,13 +12,13 @@ title = "首页"
 
 {{< block "grid-4" >}}
 {{< column >}}
-<img src="https://green-img.f2ee.com/edu/nlp/zhao.jpg" width="200" height="300"/>
+<img src="images/zhao.jpg" width="200" height="300"/>
 
 赵宇，教授，西南财经大学
 {{</column>}}
 
 {{< column >}}
-<img src="https://green-img.f2ee.com/edu/nlp/ren.png" width="200" height="300" />
+<img src="images/ren.png" width="200" height="300" />
 
 任福继，教授，电子科技大学
 {{</column>}}
@@ -67,12 +67,12 @@ url = {https://swufe-agi.github.io/},
 {{< /tip >}}
 
 
-{{< button "/#图书章节" "章节内容" >}}{{< button "https://green-img.f2ee.com/edu/nlp/%E3%80%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%88%EF%BC%890916.pdf" "下载书籍（预览版）" >}}
+{{< button "/#图书章节" "章节内容" >}}{{< button "https://github.com/swufe-agi/NLP-book/releases/tag/v-20240916" "下载书籍（预览版）" >}}
 
 {{< /column >}}
 
 {{< column "mt-2">}}
-<img src="https://green-img.f2ee.com/edu/nlp/qq-group-v2.jpg" width="360" />
+<img src="images/qq-group-v2.jpg" width="360" />
 {{< /column >}}
 {{< /block >}}
 
@@ -83,16 +83,16 @@ url = {https://swufe-agi.github.io/},
 {{< block "grid-2" >}}
 {{< column >}}
 
-- [第一章：绪论](https://green-img.f2ee.com/edu/nlp/slides/chapter-01.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
+- [第一章：绪论](https://github.com/swufe-agi/NLP-book/releases/tag/chapter01-slide) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
 - 第一部分：语言模型基础
-  - [第二章：词向量](https://green-img.f2ee.com/edu/nlp/slides/chapter-02.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
-  - [第三章：统计语言模型](https://green-img.f2ee.com/edu/nlp/slides/chapter-03.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
-  - [第四章：神经语言模型](https://green-img.f2ee.com/edu/nlp/slides/chapter-04.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
-  - [第五章：预训练语言模型](https://green-img.f2ee.com/edu/nlp/slides/chapter-05.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
+  - [第二章：词向量](https://github.com/swufe-agi/NLP-book/releases/tag/chapter02-slide) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
+  - [第三章：统计语言模型](https://github.com/swufe-agi/NLP-book/releases/tag/chapter03-slide) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
+  - [第四章：神经语言模型](https://github.com/swufe-agi/NLP-book/releases/tag/chapter04-slide) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
+  - [第五章：预训练语言模型](https://github.com/swufe-agi/NLP-book/releases/tag/chapter05-slide) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
 - 第二部分：大模型理论
-  - [第六章：大模型模型架构](https://green-img.f2ee.com/edu/nlp/slides/chapter-06.pdf) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
-  - [第七章：多模态大模型训练](/)
-  - [第八章：大模型预训练](/)
+  - [第六章：大模型模型架构](https://github.com/swufe-agi/NLP-book/releases/tag/chapter06-slide) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
+  - [第七章：多模态大模型训练](https://github.com/swufe-agi/NLP-book/releases/tag/chapter07-slide) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
+  - [第八章：大模型预训练](https://github.com/swufe-agi/NLP-book/releases/tag/chapter08-slide) <span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span>
   - [第九章：大模型微调](/)
   - [第十章：提示工程](/)
   - [第十一章：涌现](/)
@@ -104,6 +104,6 @@ url = {https://swufe-agi.github.io/},
     {{< /column >}}
 
 {{< column >}}
-![book-cover](https://green-img.f2ee.com/edu/nlp/3D-book-cover.png)
+![book-cover](images/3D-book-cover.png)
 {{< /column >}}
 {{< /block >}}

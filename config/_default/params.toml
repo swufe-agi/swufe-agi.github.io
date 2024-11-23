@@ -32,11 +32,11 @@ on = false
 
 # Site logo
 [logo]
-  lightMode = "https://green-img.f2ee.com/edu/nlp/nlp.svg"
-  darkMode = "https://green-img.f2ee.com/edu/nlp/nlp-light.svg"
+  lightMode = "images/nlp.svg"
+  darkMode = "images//nlp-light.svg"
 
 [source]
   name = "GitHub"
-  iconLight = "https://green-img.f2ee.com/edu/nlp/GitHubMarkLight.svg"
-  iconDark = "https://green-img.f2ee.com/edu/nlp//GitHubMarkDark.svg"
+  iconLight = "images/GitHubMarkLight.svg"
+  iconDark = "images/GitHubMarkDark.svg"
   url = "https://github.com/swufe-agi/NLP-book"
