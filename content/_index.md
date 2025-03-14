@@ -50,10 +50,10 @@ title = "首页"
 {{< tip "warning" >}}
 
 ```bibtex
-@book{zhao2024nlpbook,
+@book{zhao2025nlpbook,
 title = {自然语言处理：大规模理论与实践},
 publisher = {机械工业出版社},
-year = {2024},
+year = {2025},
 author = {赵宇，任福继，陈星延，陈中普，陈珍珠},
 address = {成都},
 isbn = {},
