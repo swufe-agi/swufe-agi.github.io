@@ -1,20 +1,15 @@
 #  menu items
-# [[main]]
-#   name = "章节内容"
-#   weight = 2
-#   url = "docs/"
+[[main]]
+   name = "自然语言处理"
+   weight = 2
+   url = "nlp/"
+   
+ [[main]]
+   name = "大模型应用"
+   weight = 2
+   url = "llm/"
 
-# [[main]]
-#   name = "Docs"
-#   weight = 2
-#   url = "docs/"
-#
-# [[main]]
-#   name = "Tutorials"
-#   weight = 2
-#   url = "tutorials/"
-#
-# [[main]]
-#   name = "Example"
-#   weight = 3
-#   url = "https://docs.neuralvibes.com"
+ [[main]]
+   name = "AI智能体"
+   weight = 2
+   url = "agent/"

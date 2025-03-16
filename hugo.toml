@@ -1,5 +1,5 @@
 baseURL = "https://nlp-book.swufenlp.group"
-title = "自然语言处理：大模型理论与实践"
+title = "大模型三部曲"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
