@@ -1,15 +1,15 @@
 #  menu items
 [[main]]
-   name = "自然语言处理"
-   weight = 2
+   name = "📰自然语言处理"
+   weight = 1
    url = "nlp/"
    
  [[main]]
-   name = "大模型应用"
+   name = "🏗️大模型应用"
    weight = 2
    url = "llm/"
 
  [[main]]
-   name = "AI智能体"
-   weight = 2
+   name = "💸AI智能体"
+   weight = 3
    url = "agent/"
