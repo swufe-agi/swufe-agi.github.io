@@ -35,8 +35,12 @@ on = false
   lightMode = "images/nlp.svg"
   darkMode = "images//nlp-light.svg"
 
-[source]
-  name = "GitHub"
-  iconLight = "images/GitHubMarkLight.svg"
-  iconDark = "images/GitHubMarkDark.svg"
-  url = "https://github.com/swufe-agi/NLP-book"
+#[source]
+#  name = "GitHub"
+#  iconLight = "images/GitHubMarkLight.svg"
+#  iconDark = "images/GitHubMarkDark.svg"
+#  url = "https://github.com/swufe-agi/NLP-book"
+
+[author]
+  name = "金融智能与金融工程四川省重点实验室"
+  url = "https://fife.swufe.edu.cn/"
