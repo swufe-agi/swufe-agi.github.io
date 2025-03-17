@@ -17,11 +17,11 @@ title = "《大模型应用：从提示工程到AI智能体》"
 赵宇，教授，西南财经大学
 {{</column>}}
 
-<!-- {{< column >}}
-<img src="/images/ren.png" width="200" height="300" />
+{{< column >}}
+<img src="/images/cxy.jpg" width="200" height="300" />
 
-任福继，教授，电子科技大学
-{{</column>}} -->
+陈星延，副教授，西南财经大学
+{{</column>}}
 
 {{< column >}}
 {{</column>}}
