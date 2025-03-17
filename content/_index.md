@@ -26,12 +26,10 @@ title = "大模型三部曲"
 {{</column>}}
 
 {{< column >}}
-{{< mermaid >}}
-flowchart TB
-    A["《自然语言处理：大模型理论与实践》\n(基础理论)"] -->|推动| B["《大模型应用：从提示工程到AI智能体》\n(实战应用)"]
-    A -->|支撑| C["《AI智能体：入门、产品与实践》\n(产品研发)"]
-    B -->|支撑| C
-{{< /mermaid >}}
+
+<img src="/images/book-diagram.png" width="400" />
+
+
 {{</column>}}
 
 {{</block>}} 
