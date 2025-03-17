@@ -13,3 +13,13 @@
    name = "💸AI智能体"
    weight = 3
    url = "agent/"
+
+ [[main]]
+   name = "🛸女娲智能体平台"
+   weight = 4
+   url = "https://agent.xspaceagi.com"
+
+ [[main]]
+   name = "🎓AGI团队"
+   weight = 5
+   url = "https://www.swufenlp.group"   

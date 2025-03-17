@@ -8,13 +8,20 @@ title = "大模型三部曲"
 
 
 {{< column >}}
-{{< tip >}}
+
+<img src="/images/quote.png" />
+
+<!-- {{< tip >}}
+“自然语言处理是人工智能皇冠上的明珠。”
+{{< /tip >}} -->
+
+<!-- {{< tip >}}
 “我的语言的界限意味着我的世界的界限。”——路德维希·维特根斯坦(Ludwig Wittgenstein), 1922
 {{< /tip >}}
 
 {{< tip >}}
 “人工智能是我们人类正在从事的最为深刻的研究方向之一，甚至要比火与电还更加深刻。”——桑德尔·皮猜(Sundar Pichai), 2020
-{{< /tip >}}
+{{< /tip >}} -->
 
 {{</column>}}
 
@@ -33,7 +40,7 @@ flowchart TB
 
 {{< tab "自然语言处理" >}}
 {{< tip >}}
-
+{{< button "/nlp" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2025nlpbook,
 title = {自然语言处理：大规模理论与实践},
@@ -47,11 +54,12 @@ url = {https://swufe-agi.github.io/},
 ```
 
 {{< /tip >}}
+
 {{< /tab >}}
 
 {{< tab "大模型应用" >}}
 {{< tip >}}
-
+{{< button "/llm" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2025llmbook,
 title = {大模型应用：从提示工程到AI智能体},
