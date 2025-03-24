@@ -47,13 +47,13 @@ title = "《大模型应用：从提示工程到AI智能体》"
 
 ```bibtex
 @book{zhao2025llmbook,
-title = {大模型应用：从提示工程到AI智能体},
-publisher = {机械工业出版社},
-year = {2025},
-author = {赵宇，陈星延，陈中普，陈珍珠，潘宁宁},
-address = {成都},
-isbn = {},
-url = {https://swufe-agi.github.io/},
+  title = {大模型应用：从提示工程到AI智能体},
+  publisher = {机械工业出版社},
+  year = {2025},
+  author = {赵宇，陈星延，陈中普，陈珍珠，潘宁宁},
+  address = {成都},
+  isbn = {},
+  url = {https://swufe-agi.github.io/}
 }
 ```
 

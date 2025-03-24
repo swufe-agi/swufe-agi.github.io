@@ -41,13 +41,13 @@ title = "大模型三部曲"
 {{< button "/nlp" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2025nlpbook,
-title = {自然语言处理：大规模理论与实践},
-publisher = {机械工业出版社},
-year = {2025},
-author = {赵宇，任福继，陈星延，陈中普，陈珍珠},
-address = {成都},
-isbn = {},
-url = {https://swufe-agi.github.io/},
+    title = {自然语言处理：大规模理论与实践},
+    publisher = {机械工业出版社},
+    year = {2025},
+    author = {赵宇，任福继，陈星延，陈中普，陈珍珠},
+    address = {成都},
+    isbn = {},
+    url = {https://swufe-agi.github.io/}
 }
 ```
 
@@ -60,13 +60,13 @@ url = {https://swufe-agi.github.io/},
 {{< button "/llm" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2025llmbook,
-title = {大模型应用：从提示工程到AI智能体},
-publisher = {机械工业出版社},
-year = {2025},
-author = {赵宇，陈星延，陈中普，陈珍珠，潘宁宁},
-address = {成都},
-isbn = {},
-url = {https://swufe-agi.github.io/},
+    title = {大模型应用：从提示工程到AI智能体},
+    publisher = {机械工业出版社},
+    year = {2025},
+    author = {赵宇，陈星延，陈中普，陈珍珠，潘宁宁},
+    address = {成都},
+    isbn = {},
+    url = {https://swufe-agi.github.io/}
 }
 ```
 
@@ -79,13 +79,13 @@ url = {https://swufe-agi.github.io/},
 {{< button "/agent" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2026agentbook,
-title = {AI智能体：入门、产品与实践},
-publisher = {机械工业出版社},
-year = {2026},
-author = {赵宇, 张赟, 陈桓亘, 向姝婷, 冯飞},
-address = {成都},
-isbn = {},
-url = {https://swufe-agi.github.io/},
+    title = {AI智能体：入门、产品与实践},
+    publisher = {机械工业出版社},
+    year = {2026},
+    author = {赵宇, 张赟, 陈桓亘, 向姝婷, 冯飞},
+    address = {成都},
+    isbn = {},
+    url = {https://swufe-agi.github.io/}
 }
 ```
 {{< /tip >}}

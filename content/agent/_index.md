@@ -18,7 +18,7 @@ title = "《AI智能体：入门、产品与实践》"
 {{< column >}}
 <img src="/images/zhang.png" width="200" height="300" />
 
-张赟，副教授，电子科技大学
+张赟，副教授，西南财经大学
 {{</column>}}
 
 {{< column >}}
