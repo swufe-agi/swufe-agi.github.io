@@ -45,13 +45,13 @@ title = "《AI智能体：入门、产品与实践》"
 
 ```bibtex
 @book{zhao2026agentbook,
-title = {AI智能体：入门、产品与实践},
-publisher = {机械工业出版社},
-year = {2026},
-author = {赵宇, 张赟, 陈桓亘, 向姝婷, 冯飞},
-address = {成都},
-isbn = {},
-url = {https://swufe-agi.github.io/},
+  title = {AI智能体：入门、产品与实践},
+  publisher = {机械工业出版社},
+  year = {2026},
+  author = {赵宇, 张赟, 陈桓亘, 向姝婷, 冯飞},
+  address = {成都},
+  isbn = {},
+  url = {https://swufe-agi.github.io/},
 }
 ```
 

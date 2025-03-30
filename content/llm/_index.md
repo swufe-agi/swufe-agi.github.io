@@ -63,7 +63,7 @@ title = "《大模型应用：从提示工程到AI智能体》"
 {{< /tip >}}
 
 
-{{< button "#图书章节" "章节内容" >}}{{< button "#" "下载书籍（预览版）" >}}
+{{< button "#图书章节" "章节内容" >}}{{< button "https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/book/%E3%80%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%EF%BC%9A%E4%BB%8E%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%E5%88%B0AI%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88%E8%AE%B2%E4%B9%89%E7%89%88-20250330%EF%BC%89%E3%80%8B.pdf" "下载书籍（预览版）" >}}
 
 {{< /column >}}
 
