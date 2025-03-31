@@ -15,16 +15,11 @@
    url = "agent/"
 
  [[main]]
-   name = "🛸女娲智能体平台"
+   name = "🛸SWUFE智能体平台"
    weight = 4
-   url = "https://agent.xspaceagi.com"
+   url = "http://agent.swufe.edu.cn/"
 
  [[main]]
    name = "🎓AGI团队"
    weight = 5
    url = "https://www.swufenlp.group"   
-
- [[main]]
-   name = "🏭产学研"
-   weight = 6
-   url = "https://xspaceagi.com/"  

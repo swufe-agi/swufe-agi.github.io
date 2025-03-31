@@ -32,8 +32,8 @@ on = false
 
 # Site logo
 [logo]
-  lightMode = "images/nlp.svg"
-  darkMode = "images//nlp-light.svg"
+  lightMode = "./images/nlp.svg"
+  darkMode = "./images/nlp-light.svg"
 
 #[source]
 #  name = "GitHub"
