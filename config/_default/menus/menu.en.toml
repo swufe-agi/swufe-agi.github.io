@@ -15,11 +15,6 @@
    url = "agent/"
 
  [[main]]
-   name = "🛸SWUFE智能体平台"
+   name = "🛸SWUFEAgent"
    weight = 4
    url = "http://agent.swufe.edu.cn/"
-
- [[main]]
-   name = "🎓AGI团队"
-   weight = 5
-   url = "https://www.swufenlp.group"   
