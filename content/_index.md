@@ -38,7 +38,7 @@ title = "大模型三部曲"
 
 {{< tab "自然语言处理" >}}
 {{< tip >}}
-{{< button "/nlp" "查看资源并下载📚" >}}
+{{< button "/nlp/" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2025nlpbook,
     title = {自然语言处理：大规模理论与实践},
@@ -57,7 +57,7 @@ title = "大模型三部曲"
 
 {{< tab "大模型应用" >}}
 {{< tip >}}
-{{< button "/llm" "查看资源并下载📚" >}}
+{{< button "/llm/" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2025llmbook,
     title = {大模型应用：从提示工程到AI智能体},
@@ -76,7 +76,7 @@ title = "大模型三部曲"
 
 {{< tab "AI智能体" >}}
 {{< tip "warning">}}
-{{< button "/agent" "查看资源并下载📚" >}}
+{{< button "/agent/" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2026agentbook,
     title = {AI智能体：入门、产品与实践},

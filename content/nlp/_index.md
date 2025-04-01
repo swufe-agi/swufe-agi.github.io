@@ -67,7 +67,7 @@ title = "《自然语言处理：大模型理论与实践》"
 {{< /tip >}}
 
 
-{{< button "/#图书章节" "章节内容" >}}{{< button "https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/default.pdf" "下载书籍（预览版）" >}}
+{{< button "/#图书章节" "章节内容" >}}{{< button "https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/%E3%80%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%8820240824%EF%BC%89.pdf" "下载书籍（预览版）" >}}
 
 {{< /column >}}
 
