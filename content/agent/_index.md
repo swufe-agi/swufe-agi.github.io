@@ -78,20 +78,20 @@ title = "《AI智能体产品：基础、设计与企业案例》"
 {{< column >}}
 
 - [第一章：绪论](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-- 第一部分：AI智能体入门
+- 第一部分：智能体产品技术基础
   - [第二章：初识大模型](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
   - [第三章：智能体组成](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-- 第二部分：AI智能体产品
+- 第二部分：智能体产品设计
   - [第四章：智能体产品需求定义](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
   - [第五章：智能体产品需求分析](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
   - [第六章：智能体产品实现](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-- 第三部分：AI智能体产业实践案例
+- 第三部分：智能体产品产业案例
   - [第七章：第一产业AI智能体案例](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
   - [第八章：第二产业AI智能体案例](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第九章：第二产业AI智能体案例](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+  - [第九章：第三产业AI智能体案例](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
     {{< /column >}}
 
 {{< column >}}
-![book-cover](/images/3D-book-cover-agent.png)
+![book-cover](/images/3D-book-cover-agent2.png)
 {{< /column >}}
 {{< /block >}}
