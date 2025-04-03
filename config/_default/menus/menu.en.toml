@@ -10,7 +10,7 @@
    url = "llm/"
 
  [[main]]
-   name = "💸AI智能体"
+   name = "💸AI智能体产品"
    weight = 3
    url = "agent/"
 

@@ -1,8 +1,8 @@
 +++
-title = "《AI智能体：入门、产品与实践》"
+title = "《AI智能体产品：基础、设计与企业案例》"
 +++
 
-# 《AI智能体：入门、产品与实践》
+# 《AI智能体产品：基础、设计与企业案例》
 
 如今，人工智能正以前所未有的速度改变着世界，而这一切，源于全球无数人工智能领域科研工作者的坚持和努力。展望未来，随着生成式AI大模型和其他人工智能技术的不断演进，人类或许将迎来一个更加智能化的新时代。
 
@@ -45,7 +45,7 @@ title = "《AI智能体：入门、产品与实践》"
 
 ```bibtex
 @book{zhao2026agentbook,
-  title = {AI智能体：入门、产品与实践},
+  title = {AI智能体产品：基础、设计与企业案例},
   publisher = {机械工业出版社},
   year = {2026},
   author = {赵宇, 张赟, 陈桓亘, 向姝婷, 冯飞},
@@ -77,7 +77,7 @@ title = "《AI智能体：入门、产品与实践》"
 {{< block "grid-2" >}}
 {{< column >}}
 
-- [第一章：绪论](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-01.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-01.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-01.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+- [第一章：绪论](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
 - 第一部分：AI智能体入门
   - [第二章：初识大模型](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
   - [第三章：智能体组成](#) <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="#"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
