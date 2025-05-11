@@ -92,6 +92,6 @@ title = "《AI智能体产品：技术、设计与案例》"
     {{< /column >}}
 
 {{< column >}}
-![book-cover](/images/3D-book-cover-agent2.png)
+![book-cover](/images/3D-book-cover-agent.png)
 {{< /column >}}
 {{< /block >}}
