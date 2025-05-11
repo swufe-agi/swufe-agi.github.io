@@ -79,7 +79,7 @@ title = "大模型三部曲"
 {{< button "/agent/" "查看资源并下载📚" >}}
 ```bibtex
 @book{zhao2026agentbook,
-    title = {AI智能体产品：基础、设计与企业案例},
+    title = {AI智能体产品：技术、设计与案例},
     publisher = {机械工业出版社},
     year = {2026},
     author = {赵宇, 张赟, 陈桓亘, 向姝婷, 冯飞},
