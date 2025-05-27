@@ -47,7 +47,7 @@
   <!-- Top box - Product Development -->
   <rect x="30" y="30" width="740" height="90" rx="15" fill="#fff2b3" stroke="#ffdd80" stroke-width="2"/>
   <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#333">
-    《AI智能体产品：基础、设计与企业案例》
+    《AI智能体产品：技术、设计与案例》
   </text>
   <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#0066cc" font-weight="bold">
     (产品研发)
