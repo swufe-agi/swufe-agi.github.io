@@ -60,11 +60,15 @@ title = "《自然语言处理：大模型理论与实践》"
   url = {https://swufe-agi.github.io/}
 }
 ```
+{{< /tip >}}
+{{< /tab >}}
 
+{{< tab "QQ群" >}}
+<img src="/images/qq-group-nlp.jpg" width="360" />
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< /tip >}}
+
 
 
 {{< button "/#图书章节" "章节内容" >}}{{< button "https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/%E3%80%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%8820240824%EF%BC%89.pdf" "下载书籍（预览版）" >}}
@@ -72,7 +76,14 @@ title = "《自然语言处理：大模型理论与实践》"
 {{< /column >}}
 
 {{< column "mt-2">}}
-<img src="/images/qq-group-nlp.jpg" width="360" />
+
+关注我们获取最新资讯和资源更新：
+
+- 微信公众号：女娲智能体公众号（回复：课程PPT，可获得《大模型应用》课程最新PPT）
+- 微信视频号：女娲智能体视频号
+
+<img src="/images/nvwa2.png" width="400" />
+
 {{< /column >}}
 {{< /block >}}
 

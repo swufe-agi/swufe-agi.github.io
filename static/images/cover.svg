@@ -1,0 +1,117 @@
+<svg viewBox="0 0 500 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- 渐变定义 -->
+    <radialGradient id="crownGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </radialGradient>
+    
+    <radialGradient id="pearlGradient" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#F0F8FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E6E6FA;stop-opacity:1" />
+    </radialGradient>
+    
+    <!-- 光晕效果 -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- 珍珠光泽效果 -->
+    <filter id="pearlShine">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- 皇冠底座 -->
+  <ellipse cx="250" cy="320" rx="140" ry="20" fill="url(#crownGradient)" opacity="0.8"/>
+  
+  <!-- 皇冠主体 -->
+  <path d="M 110 320 L 150 240 L 190 280 L 250 200 L 310 280 L 350 240 L 390 320 Z" 
+        fill="url(#crownGradient)" 
+        stroke="#FFD700" 
+        stroke-width="3" 
+        filter="url(#glow)"/>
+  
+  <!-- 皇冠装饰宝石 -->
+  <circle cx="150" cy="260" r="10" fill="#FF6B6B" opacity="0.9"/>
+  <circle cx="250" cy="220" r="12" fill="#4ECDC4" opacity="0.9"/>
+  <circle cx="350" cy="260" r="10" fill="#45B7D1" opacity="0.9"/>
+  <circle cx="190" cy="290" r="8" fill="#96CEB4" opacity="0.9"/>
+  <circle cx="310" cy="290" r="8" fill="#FECA57" opacity="0.9"/>
+  
+  <!-- 中央明珠 (NLP) -->
+  <circle cx="250" cy="120" r="45" 
+          fill="url(#pearlGradient)" 
+          stroke="#E6E6FA" 
+          stroke-width="3" 
+          filter="url(#pearlShine)"/>
+  
+  <!-- 明珠光泽效果 -->
+  <ellipse cx="235" cy="105" rx="15" ry="10" fill="#FFFFFF" opacity="0.6"/>
+  <ellipse cx="240" cy="110" rx="8" ry="5" fill="#FFFFFF" opacity="0.8"/>
+  
+  <!-- 围绕明珠的AI技术环 -->
+  <g stroke="#64FFDA" stroke-width="2" fill="none" opacity="0.7">
+    <!-- 机器学习 -->
+    <circle cx="250" cy="120" r="90" stroke-dasharray="6,6">
+      <animateTransform 
+        attributeName="transform" 
+        attributeType="XML" 
+        type="rotate" 
+        from="0 250 120" 
+        to="360 250 120" 
+        dur="20s" 
+        repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- 深度学习 -->
+    <circle cx="250" cy="120" r="110" stroke-dasharray="10,10" stroke="#FF9A9E" opacity="0.6">
+      <animateTransform 
+        attributeName="transform" 
+        attributeType="XML" 
+        type="rotate" 
+        from="360 250 120" 
+        to="0 250 120" 
+        dur="25s" 
+        repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- NLP 标识 -->
+  <text x="250" y="128" 
+        font-family="Arial, sans-serif" 
+        font-size="18" 
+        font-weight="bold" 
+        fill="#1a1a2e" 
+        text-anchor="middle">
+    NLP
+  </text>
+  
+  <!-- 装饰性光线 -->
+  <g stroke="#FFD700" stroke-width="2" opacity="0.4">
+    <line x1="250" y1="75" x2="250" y2="30">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="225" y1="85" x2="210" y2="50">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="275" y1="85" x2="290" y2="50">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="205" y1="100" x2="180" y2="65">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="295" y1="100" x2="320" y2="65">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+</svg>

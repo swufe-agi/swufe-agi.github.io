@@ -1,0 +1,74 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bottom box - Foundation Theory -->
+  <rect x="30" y="370" width="740" height="90" rx="15" fill="#ffb3b3" stroke="#ff8080" stroke-width="2"/>
+  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#333">
+    《自然语言处理：大模型理论与实践》
+  </text>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#0066cc" font-weight="bold">
+    (基础理论)
+  </text>
+  
+  <!-- Network icon for bottom box -->
+  <g transform="translate(730, 395)">
+    <circle cx="0" cy="0" r="4" fill="#ff6600" stroke="#ff4400" stroke-width="1"/>
+    <circle cx="15" cy="-10" r="4" fill="#ff6600" stroke="#ff4400" stroke-width="1"/>
+    <circle cx="15" cy="10" r="4" fill="#ff6600" stroke="#ff4400" stroke-width="1"/>
+    <circle cx="30" cy="0" r="4" fill="#ff6600" stroke="#ff4400" stroke-width="1"/>
+    <line x1="4" y1="0" x2="11" y2="-10" stroke="#ff6600" stroke-width="2"/>
+    <line x1="4" y1="0" x2="11" y2="10" stroke="#ff6600" stroke-width="2"/>
+    <line x1="19" y1="-10" x2="26" y2="0" stroke="#ff6600" stroke-width="2"/>
+    <line x1="19" y1="10" x2="26" y2="0" stroke="#ff6600" stroke-width="2"/>
+  </g>
+  
+  <!-- Arrow from bottom to middle -->
+  <path d="M 400 360 L 400 300" fill="none" stroke="black" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Middle box - Practical Application -->
+  <rect x="30" y="200" width="740" height="90" rx="15" fill="#b3ffb3" stroke="#80ff80" stroke-width="2"/>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#333">
+    《大模型应用：从提示工程到AI智能体》
+  </text>
+  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#0066cc" font-weight="bold">
+    (实战应用)
+  </text>
+  
+  <!-- 3D blocks icon for middle box -->
+  <g transform="translate(730, 225)">
+    <rect x="0" y="10" width="20" height="20" fill="#cc9900" stroke="#aa7700" stroke-width="1"/>
+    <rect x="5" y="5" width="20" height="20" fill="#ffbb00" stroke="#dd9900" stroke-width="1"/>
+    <rect x="10" y="0" width="20" height="20" fill="#ffdd00" stroke="#ffbb00" stroke-width="1"/>
+    <path d="M 30 0 L 35 5 L 35 25 L 30 20 Z" fill="#cc9900"/>
+    <path d="M 10 0 L 15 5 L 35 5 L 30 0 Z" fill="#eebb00"/>
+  </g>
+  
+  <!-- Arrow from middle to top -->
+  <path d="M 400 190 L 400 130" fill="none" stroke="black" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Top box - Product Development -->
+  <rect x="30" y="30" width="740" height="90" rx="15" fill="#fff2b3" stroke="#ffdd80" stroke-width="2"/>
+  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#333">
+    《AI智能体产品：基础、设计与企业案例》
+  </text>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#0066cc" font-weight="bold">
+    (产品研发)
+  </text>
+  
+  <!-- AI/Eye icon for top box -->
+  <g transform="translate(730, 55)">
+    <circle cx="15" cy="15" r="18" fill="none" stroke="#0099ff" stroke-width="3"/>
+    <circle cx="15" cy="15" r="8" fill="#0099ff"/>
+    <circle cx="15" cy="15" r="4" fill="white"/>
+    <circle cx="5" cy="5" r="3" fill="#0099ff" opacity="0.6"/>
+    <circle cx="25" cy="5" r="3" fill="#0099ff" opacity="0.6"/>
+    <circle cx="30" cy="20" r="3" fill="#0099ff" opacity="0.6"/>
+    <circle cx="5" cy="25" r="3" fill="#0099ff" opacity="0.6"/>
+  </g>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+     refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black"/>
+    </marker>
+  </defs>
+</svg>

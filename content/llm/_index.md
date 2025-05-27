@@ -20,7 +20,7 @@ title = "《大模型应用：从提示工程到AI智能体》"
 {{< column >}}
 <img src="/images/cxy.jpg" width="200" height="300" />
 
-陈星延，副教授，西南财经大学
+陈星延，副教授，北京邮电大学
 {{</column>}}
 
 {{< column >}}
@@ -38,7 +38,7 @@ title = "《大模型应用：从提示工程到AI智能体》"
 {{< tabs "tabsId" >}}
 {{< tab "联系及合作" >}}
 {{< tip >}}
-如果您有任何意见、评论以及建议请通过 [GitHub](https://github.com/swufe-agi/NLP-book) 的 [Discussion](https://github.com/swufe-agi/NLP-book/discussions) 页面进行反馈。
+如果您有任何意见、评论以及建议请通过 [GitHub](https://github.com/swufe-agi/LLM-Application-Book) 的 [Discussion](https://github.com/swufe-agi/LLM-Application-Book/discussions) 页面进行反馈。
 {{< /tip >}}
 
 {{< /tab >}}
@@ -56,11 +56,16 @@ title = "《大模型应用：从提示工程到AI智能体》"
   url = {https://swufe-agi.github.io/}
 }
 ```
-
+{{< /tip >}}
 {{< /tab >}}
+
+{{< tab "QQ群" >}}
+<img src="/images/qq-group-llm.jpg" width="360" />
+{{< /tab >}}
+
 {{< /tabs >}}
 
-{{< /tip >}}
+
 
 
 {{< button "#图书章节" "章节内容" >}}{{< button "https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/book/%E3%80%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%EF%BC%9A%E4%BB%8E%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%E5%88%B0AI%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%88-20250524%E3%80%8B.pdf" "下载书籍（预览版）" >}}
@@ -68,7 +73,15 @@ title = "《大模型应用：从提示工程到AI智能体》"
 {{< /column >}}
 
 {{< column "mt-2">}}
-<img src="/images/qq-group-llm.jpg" width="360" />
+
+
+关注我们获取最新资讯和资源更新：
+
+- 微信公众号：女娲智能体公众号（回复：课程PPT，可获得《大模型应用》课程最新PPT）
+- 微信视频号：女娲智能体视频号
+
+<img src="/images/nvwa2.png" width="400" />
+
 {{< /column >}}
 {{< /block >}}
 

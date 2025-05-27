@@ -4,16 +4,17 @@ title = "大模型三部曲"
 
 # 大模型三部曲
 
+{{< tip >}}
+“自然语言处理被誉为人工智能皇冠上的明珠”
+{{< /tip >}}
+
 {{< block "grid-2" >}}
 
 
 {{< column >}}
 
-<img src="/images/quote.png" />
+<img src="/images/cover.svg" />
 
-<!-- {{< tip >}}
-“自然语言处理是人工智能皇冠上的明珠。”
-{{< /tip >}} -->
 
 <!-- {{< tip >}}
 “我的语言的界限意味着我的世界的界限。”——路德维希·维特根斯坦(Ludwig Wittgenstein), 1922
@@ -27,9 +28,9 @@ title = "大模型三部曲"
 
 {{< column >}}
 
-<img src="/images/book-diagram.png" width="400" />
+<img src="/images/banner.svg" />
 
-
+`图片由Claude sonnet 4生成`
 {{</column>}}
 
 {{</block>}} 
@@ -89,6 +90,18 @@ title = "大模型三部曲"
 }
 ```
 {{< /tip >}}
+
+{{< /tab >}}
+
+{{< tab "关注我们" >}}
+{{< tip >}}
+关注我们获取最新资讯和资源更新：
+- 微信公众号：**女娲智能体公众号**（回复：课程PPT，可获得《大模型应用》课程最新PPT）
+- 微信视频号：**女娲智能体视频号**
+{{< /tip>}}
+
+
+<img src="/images/nvwa2.png" width="500" />
 
 {{< /tab >}}
 
