@@ -13,11 +13,20 @@ title = "大模型三部曲"
 
 {{< column >}}
 
+<span style="display: block; text-align: center; font-family: 'Microsoft YaHei'; color: rgb(233, 237, 241); font-size: 24px; font-weight: bold;">
+关注我们获取最新资讯和资源更新
+</span>
+
+
+
+<ul style="margin: 0.5em 0; padding-left: 1.5em;">
+  <li><span style="color: #1890ff; font-weight: bold;">微信公众号</span>：<strong>女娲智能体公众号</strong>（回复：课程PPT，可获得《大模型应用》课程最新PPT）</li>
+  <li><span style="color: #1890ff; font-weight: bold;">微信视频号</span>：<strong>女娲智能体视频号</strong></li>
+</ul>
+
+
 <div style="text-align: center;">
-    <p>关注我们获取最新资讯和资源更新：</p>
-    <p>- 微信公众号：**女娲智能体公众号**（回复：课程PPT，可获得《大模型应用》课程最新PPT）</p>
-    <p>- 微信视频号：**女娲智能体视频号**</p>
-    <img src="/images/nvwa2.png" />
+  <img src="/images/nvwa2.png" alt="女娲智能体二维码" >
 </div>
 
 
