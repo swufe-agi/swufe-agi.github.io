@@ -13,7 +13,13 @@ title = "大模型三部曲"
 
 {{< column >}}
 
-<img src="/images/cover.svg" />
+<div style="text-align: center;">
+    <p>关注我们获取最新资讯和资源更新：</p>
+    <p>- 微信公众号：**女娲智能体公众号**（回复：课程PPT，可获得《大模型应用》课程最新PPT）</p>
+    <p>- 微信视频号：**女娲智能体视频号**</p>
+    <img src="/images/nvwa2.png" />
+</div>
+
 
 
 <!-- {{< tip >}}
