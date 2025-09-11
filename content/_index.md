@@ -13,7 +13,7 @@ title = "大模型三部曲"
 
 {{< column >}}
 
-<span style="display: block; text-align: center; font-family: 'Microsoft YaHei'; color: rgb(233, 237, 241); font-size: 24px; font-weight: bold;">
+<span style="display: block; text-align: center; font-family: 'Microsoft YaHei'; color: rgba(16, 114, 213, 1); font-size: 24px; font-weight: bold;">
 关注我们获取最新资讯和资源更新
 </span>
 
@@ -45,7 +45,7 @@ title = "大模型三部曲"
 
 <img src="/images/banner.svg" />
 
-`图片由Claude sonnet 4生成`
+`图片由 Claude sonnet 4 生成`
 {{</column>}}
 
 {{</block>}} 

@@ -71,7 +71,7 @@ title = "《自然语言处理：大模型理论与实践》"
 
 
 
-{{< button "/#图书章节" "章节内容" >}}{{< button "https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/%E3%80%8A%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%8820240824%EF%BC%89.pdf" "下载书籍（预览版）" >}}
+{{< button "https://www.jianguoyun.com/p/DSyr4NUQue-KDRjAq5EGIAA" "下载书籍（预览版）" >}} {{< button "/#图书章节" "章节内容" >}}
 
 {{< /column >}}
 
@@ -89,26 +89,26 @@ title = "《自然语言处理：大模型理论与实践》"
 
 ---
 
-## 图书章节
+## 图书章节 <a href="https://www.jianguoyun.com/p/DZCfBHwQue-KDRimq5EGIAA"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://www.jianguoyun.com/p/DZCfBHwQue-KDRimq5EGIAA"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
 
 {{< block "grid-2" >}}
 {{< column >}}
 
-- [第一章：绪论](https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-01.pdf) <a href="https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-01.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-01.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+- [第一章：绪论](/)
 - 第一部分：语言模型基础
-  - [第二章：词向量](https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-02.pdf) <a href="https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-02.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-02.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第三章：统计语言模型](https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-03.pdf) <a href="https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-03.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-03.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第四章：神经语言模型](https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-04.pdf) <a href="https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-04.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-04.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第五章：预训练语言模型](https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-05.pdf) <a href="https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-05.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-05.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+  - [第二章：词向量](/)
+  - [第三章：统计语言模型](/)
+  - [第四章：神经语言模型](/)
+  - [第五章：预训练语言模型](/)
 - 第二部分：大模型理论
-  - [第六章：大模型模型架构](https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-06.pdf) <a href="https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-06.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-06.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第七章：多模态大模型训练](https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-07.pdf) <a href="https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-07.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-07.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第八章：大模型预训练](https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-08.pdf) <a href="https://swufenlp-1252530263.cos.ap-guangzhou.myqcloud.com/books/chapter-08.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-08.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第九章：大模型微调](https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-09.pdf) <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-09.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></span> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-09.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第十章：提示工程](https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-10.pdf) <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-10.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></span> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-10.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第十一章：涌现](https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-11.pdf) <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-11.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-11.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第十二章：大模型评估](https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-12.pdf) <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-12.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-12.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第十三章：探讨](https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-13.pdf) <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-13.pdf"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufenlp-1253696447.cos.ap-chengdu.myqcloud.com/book/chapter-13.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+  - [第六章：大模型模型架构](/)
+  - [第七章：多模态大模型训练](/)
+  - 第八章：大模型预训练
+  - [第九章：大模型微调](/)
+  - [第十章：提示工程](/)
+  - [第十一章：涌现](/)
+  - [第十二章：大模型评估](/)
+  - [第十三章：探讨](/)
 - 第三部分：大模型实践
   - [第十四章：大模型本地开发](/)
   - [第十五章：基于大模型的应用开发](/)
