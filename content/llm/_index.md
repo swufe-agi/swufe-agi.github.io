@@ -68,7 +68,7 @@ title = "《大模型应用：从提示工程到AI智能体》"
 
 
 
-{{< button "https://www.jianguoyun.com/p/DWOoGdQQue-KDRiFrJEGIAA" >}} {{< button "#图书章节" "章节内容" >}}
+{{< button "https://www.jianguoyun.com/p/DWOoGdQQue-KDRiFrJEGIAA" "下载书籍（预览版）" >}} {{< button "#图书章节" "章节内容" >}}
 
 {{< /column >}}
 
