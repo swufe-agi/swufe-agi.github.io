@@ -68,7 +68,7 @@ title = "《大模型应用：从提示工程到AI智能体》"
 
 
 
-{{< button "#图书章节" "章节内容" >}}{{< button "https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/book/%E3%80%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%EF%BC%9A%E4%BB%8E%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%E5%88%B0AI%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88%E9%A2%84%E8%A7%88%E7%89%88-20250524%E3%80%8B.pdf" "下载书籍（预览版）" >}}
+{{< button "https://www.jianguoyun.com/p/DWOoGdQQue-KDRiFrJEGIAA" >}} {{< button "#图书章节" "章节内容" >}}
 
 {{< /column >}}
 
@@ -87,24 +87,24 @@ title = "《大模型应用：从提示工程到AI智能体》"
 
 ---
 
-## 图书章节
+## 图书章节 <a href="https://www.jianguoyun.com/p/DaGwkBAQue-KDRifrJEGIAA"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://www.jianguoyun.com/p/DaGwkBAQue-KDRifrJEGIAA"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
 
 {{< block "grid-2" >}}
 {{< column >}}
 
-- [第一章：绪论](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-01.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-01.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-01.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+- [第一章：绪论](/) 
 - 第一部分：大模型初阶应用：提示工程
-  - [第二章：初识大模型](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-02.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-02.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-02.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第三章：大模型提示词](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-03.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-03.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-03.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第四章：大模型辅助工作学习](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-04.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-04.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-04.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+  - [第二章：初识大模型](/)
+  - [第三章：大模型提示词](/)
+  - [第四章：大模型辅助工作学习](/)
 - 第二部分：大模型高阶应用：关键技术
-  - [第五章：大模型检索增强](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-05.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-05.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-05.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第六章：大模型认知框架](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-06.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-06.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-06.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第七章：大模型使用工具](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-07.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-07.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-07.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+  - [第五章：大模型检索增强](/)
+  - [第六章：大模型认知框架](/)
+  - [第七章：大模型使用工具](/)
 - 第三部分：大模型高阶应用：AI智能体
-  - [第八章：AI智能体核心技术](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-08.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-08.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-08.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第九章：AI智能体平台与应用](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-09.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-09.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-09.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
-  - [第十章：AI智能体行业案例](https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-10.pptx) <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-10.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-pdf"></i></span></a> <a href="https://swufellm-1253696447.cos.ap-chengdu.myqcloud.com/chapter-10.pptx"><span style="color: Tomato"><i class="fa-solid fa-file-powerpoint"></i></span></a>
+  - [第八章：AI智能体核心技术](/)
+  - [第九章：AI智能体平台与应用](/)
+  - [第十章：AI智能体行业案例](/)
     {{< /column >}}
 
 {{< column >}}
