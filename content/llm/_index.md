@@ -52,7 +52,7 @@ title = "《大模型应用：从提示工程到AI智能体》"
   year = {2026},
   author = {赵宇，陈星延，陈中普，陈珍珠，潘宁宁},
   address = {成都},
-  isbn = {9787111808251},
+  isbn = {978-7-111-80825-1},
   url = {https://swufe-agi.github.io/}
 }
 ```
